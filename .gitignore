@@ -6,6 +6,7 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
+*.lnk
 
 # Editor / IDE (keep .cursor/skills/)
 *.swp
@@ -21,7 +22,7 @@ $RECYCLE.BIN/
 *.temp
 .cache/
 
-# Secrets (never commit)
+# Secrets (do not commit)
 .env
 .env.*
 !.env.example
