@@ -8,6 +8,8 @@ A personal repo of Cursor **project skills**. Clone this folder and open it in C
 
 - **cangjie-skill**：把书、长视频字幕、播客、课程或访谈蒸馏成一组可执行的 Agent skills（方法论 / 原则 / 框架抽取）。
 - **cangjie-skill**: Distill a book, long-video transcript, podcast, course, or interview into executable agent skills (frameworks, principles, methodologies).
+- **cw-tender-powerpoint**：做或改創威電子系統有限公司（Chong Wai / CW）的標書與銷售安防系統 PowerPoint。
+- **cw-tender-powerpoint**: Make or edit 創威電子系統有限公司 (Chong Wai / CW) tender and sales security-system PowerPoint decks.
 
 ## 怎么用 / How to use
 
@@ -15,6 +17,9 @@ A personal repo of Cursor **project skills**. Clone this folder and open it in C
 2. Clone this repo and open this folder in Cursor.
 3. 项目技能会从 `.cursor/skills/` 自动加载；在对话里按技能说明调用即可（例如「把这本书蒸馏成 skill」）。
 4. Skills load from `.cursor/skills/`. Invoke them in chat as described in each `SKILL.md`.
+
+**cw-tender-powerpoint：** 在對話裡說要做或改創威電子系統有限公司（Chong Wai / CW）的標書或銷售安防系統 PowerPoint。  
+**cw-tender-powerpoint:** In chat, ask to make or edit a CW (創威電子系統有限公司) tender or sales security-system PowerPoint.
 
 **其他电脑：** 克隆同一仓库并打开即可。  
 **Other computers:** clone this repo and open it in Cursor.
